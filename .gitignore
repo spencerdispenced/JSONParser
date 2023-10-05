@@ -1,0 +1,11 @@
+test_playground.py
+node_modules/
+*.exe
+!package-lock.json
+/.vscode
+/.vs
+*.vs
+obj/
+bin/
+*.csproj
+*sln
